@@ -1,2 +1,6 @@
 reportlab>=4.0
 matplotlib>=3.7
+fastapi
+uvicorn
+streamlit
+python-multipart
